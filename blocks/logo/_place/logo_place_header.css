@@ -1,0 +1,7 @@
+.logo_place_header {
+	position: absolute;
+	/* располагаем логотим абсолютно*/
+	top: 30px;
+	left: 64px;
+	z-index: 2;
+}
