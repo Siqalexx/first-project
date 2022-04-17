@@ -1,7 +1,7 @@
-.video__iframe{
-  width:516px;
-  height:316px;
-  border:0;
+.video__iframe {
+  width: 516px;
+  height: 316px;
+  border: 0;
   margin-bottom: -60px;
 }
 .video__iframe:first-child {

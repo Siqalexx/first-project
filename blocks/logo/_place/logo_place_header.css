@@ -1,11 +1,12 @@
 .logo_place_header {
-	position: absolute;
-	/* располагаем логотим абсолютно*/
-	top: 30px;
-	left: 64px;
-	z-index: 2;
+  position: absolute;
+  /* располагаем логотим абсолютно*/
+  top: 30px;
+  left: 64px;
+  z-index: 2;
   transition: opacity linear 1s;
 }
+
 .logo_place_header:hover {
   opacity: 0.5;
 }
